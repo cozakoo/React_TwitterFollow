@@ -3,13 +3,7 @@
 
 Este proyecto consiste en una página web donde se muestra un botón de la plataforma "X" que permite seguir o dejar de seguir a un usuario, imitando el comportamiento de la plataforma original.
 
-Puedes ver una demostración del proyecto en acción en el siguiente video haciendo clic:
-
-<div align="center">
-  <a href="https://reccloud.com/es/u/xvam83l">
-    <img src="muestra_.png" alt="Descripción de la imagen" width="380">
-  </a>
-</div>
+https://github.com/cozakoo/React_TwitterFollow/assets/107519498/aaa8b62e-e60e-446a-a0b3-695ad541568e
 
 ## Requisitos
 
