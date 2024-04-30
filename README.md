@@ -29,16 +29,12 @@ git clone https://github.com/cozakoo/TwitterBoton
 cd TwitterBoton/
 ```
 
-### Paso 3: Clonar el Repositorio
-```bash
-git clone https://github.com/cozakoo/TwitterBoton
-```
-### Paso 4: Ejecutar
+### Paso 3: Ejecutar
 ```bash
 npm install
 ```
 
-### Paso 5: Correr
+### Paso 4: Correr
 ```bash
 npm run dev -- --open
 ```
